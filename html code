@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gummala Prashanth - Portfolio</title>
+    <link rel="stylesheet" href="portfolio.css">
+</head>
+<body>
+    <header class="header">
+        <nav class="navbar">
+            <div class="logo">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVdO3w7_1z9dXnPuiuCeQvhq1mm90HQnyqeQ&usqp=CAU" height="44" alt ="logo">
+                <h1>Gummala Prashanth</h1>
+            </div>
+            <div class="nav-links">
+                <a href="#about">About</a>
+                <a href="#portfolio">Portfolio</a>
+                <a href="#contact">Contact</a>
+            </div>
+        </nav>
+        <div class="hero">
+            <div class="hero-content">
+                <h1>Welcome to My Portfolio</h1>
+                <p>Explore my journey and projects in the world of technology and innovation.</p>
+            </div>
+        </div>
+    </header>
+
+    <section id="about" class="about">
+        <div class="container">
+            <h2>About Me</h2>
+            <div class="about-content">
+                <h1 align="center">GUMMALA PRASHANTH</h1>
+                <img src="https://media.licdn.com/dms/image/D4D03AQHj40RBiOFvqA/profile-displayphoto-shrink_800_800/0/1688328079774?e=2147483647&v=beta&t=X_ZFKomFcLxnWDg4yD_9nm5Lqdq7L12gnVAeVFyDfmI" height="250" alt="My Photo">
+                <p>Hello, I am Gummala Prashanth, currently in my 5th semester pursuing a degree in Computer Science and Engineering (AI). My passion lies in the field of Artificial Intelligence. Over the years, I've gained valuable experience and knowledge through various endeavors.
+
+                    I've had the opportunity to explore a diverse range of areas, including Data Science, Web Development, and Machine Learning through internships and hands-on projects. <br>
+                    
+                    Family is a significant part of my life. My mother, Parvathi, is a dedicated homemaker who has always been my source of support and inspiration. My father, Narsimha Rao, may not be with us anymore, but his values and teachings continue to guide me.
+                    
+                    My academic journey has been marked by achievements, with 97% in my tenth-grade and 98.4% in intermediate examinations. Currently, I am pursuing my Bachelor's degree at Vivekananda Global University, Jaipur, and maintaining a commendable 8.4 CGPA.<br>
+                    
+                    I am an avid reader, always eager to dive into the world of books. Creating innovations and experimenting with new technologies are among my favorite pastimes. Additionally, I find solace in listening to music, which often serves as a source of inspiration.
+                    
+                    I believe in the power of continuous learning and innovation to make a positive impact on the world. Through my portfolio, I look forward to sharing my journey and showcasing the projects that reflect my dedication to the world of technology and innovation..</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="portfolio" class="portfolio">
+        <div class="container">
+            <h2>Portfolio</h2>
+            <div class="project">
+                <img src="https://www.deere.co.in/assets/images/region-1/Misc/John%20Deere%20India_W70_Combine%20Harvester.jpg" alt="Project 1">
+                <h3>Online Harvester Booking Website</h3><br>
+                <p>An online harvester booking website is a specialized platform designed to facilitate the rental or booking of agricultural harvesters, which are essential farming machines used for harvesting crops such as wheat, rice, corn, and various other grains. Below, I'll provide a detailed description of what such a website typically involves:
+                    
+                    <h3>Website Purpose:</h3>
+                    An online harvester booking website serves as a digital marketplace and booking platform that connects farmers or agricultural businesses in need of harvesting equipment with harvester owners or rental services. It simplifies the process of finding, comparing, and booking harvesters, making the agricultural machinery rental process more efficient and accessible.
+                    
+                    <h3>Key Features and Functionality:</h3>
+                    
+                    <h5>User Registration and Profiles:</h5>
+                    
+                    Farmers and harvester owners can create user profiles on the platform, providing information about themselves or their equipment.
+                    <h5>Search and Browse:</h5>
+                    
+                    Users can search for available harvesters based on location, type (e.g., combine harvester, forage harvester), capacity, and other relevant criteria.
+                    Detailed listings for each harvester include specifications, rental rates, availability, and owner contact information.
+                    <h5>Booking and Reservation:</h5>
+                    
+                    Farmers can select a harvester from the listings and book it for specific dates and durations.
+                    The platform should support real-time availability updates to prevent double bookings.
+                    <h5>Payment Processing:</h5>
+                    
+                    Secure online payment processing allows farmers to pay for the rental services, often using credit cards, digital wallets, or other payment methods.
+                    <h5>Rental Agreements:</h5>
+                    
+                    Automated generation of rental agreements outlining terms and conditions, including rental rates, deposit requirements, insurance, and liability clauses.
+                    <h5>Reviews and Ratings:</h5>
+                    
+                    Users can leave reviews and ratings for harvesters and their owners, helping future renters make informed decisions.
+                   
+                    
+                    
+                    <h5>Efficiency:</h5> Farmers can easily access the machinery they need, saving time and effort in searching for and acquiring harvesters.
+                    
+                    <h5>Cost-Effective:</h5> Renting rather than purchasing expensive machinery can be cost-effective for smaller farms or seasonal needs.
+                    </p>
+            </div>
+            <div class="project">
+                <img src="https://repository-images.githubusercontent.com/280387936/7df18000-cbcb-11ea-961a-3feddc6957e3" alt="Project 2">
+                <h3>AI Voice Assistant</h3>
+                <p>  An AI Voice Assistant Software, commonly referred to as a voice assistant or virtual assistant, is a sophisticated piece of artificial intelligence technology designed to interact with users through natural language processing and voice recognition. These voice assistants can perform a wide range of tasks and provide information or services based on user commands or queries. Below is a detailed description of AI voice assistant software:
+                    
+                    <h5>Core Capabilities:</h5>
+                    
+                    Natural Language Processing (NLP): AI voice assistants are equipped with advanced NLP algorithms that enable them to understand and interpret spoken language. This allows users to communicate with the software in a conversational and natural manner.
+                    
+                    <h5>Voice Recognition:</h5> Voice assistants can accurately identify and recognize the voice of the user, even in noisy environments. They can differentiate between various accents, dialects, and individual voices.
+                    
+                    <h5>Task Automation:</h5> These systems are designed to automate tasks and perform various functions, such as setting alarms, sending messages, making phone calls, setting reminders, and controlling smart home devices, among others.
+                    
+                    <h5>Information Retrieval:</h5> Voice assistants can fetch information from the internet or specific databases to answer questions or provide real-time information, such as weather updates, news, stock market data, and more.
+                    
+                    <h5>Voice Synthesis:</h5> In addition to understanding voice commands, AI voice assistants are capable of synthesizing natural-sounding speech to respond to user queries or provide information. This feature is often referred to as text-to-speech (TTS) conversion.
+                    
+                    <h5>Contextual Understanding:</h5> Modern voice assistants excel in understanding the context of a conversation. They can remember previous interactions and maintain continuity in conversations, which leads to more effective communication.
+                    
+                    <h4>Key Features and Functionalities:</h4>
+                    
+                    <h5>Voice Commands:</h5> Users can activate the assistant by using a wake word or phrase (e.g., "Hey Siri" for Apple devices or "Alexa" for Amazon's Echo). Once activated, users can issue voice commands or ask questions.
+                    
+                    <h5>Personalization:</h5> Voice assistants can be personalized to recognize individual users, tailor responses to their preferences, and provide recommendations based on past interactions.
+                    
+                    <h5>Multilingual Support:</h5> Many voice assistants support multiple languages, making them accessible to a global audience.
+                    
+                   
+                    
+                    
+                    
+                    <h5>Privacy and Security:</h5> Voice assistants take privacy and security seriously. They are designed to handle personal data securely and offer features like voice recognition for user authentication</p>
+            </div>
+        
+        </div>
+    </section>
+
+    <section id="contact" class="contact">
+        <div class="container">
+            <h2>Contact Me</h2>
+            <div class="contact-form">
+                <form action="process_contact.php" method="POST">
+                    <label for="name">Name:</label>
+                    <input type="text" id="name" name="name" required>
+                    
+                    <label for="email">Email:</label>
+                    <input type="email" id="email" name="email" required>
+                    
+                    <label for="message">Message:</label>
+                    <textarea id="message" name="message" rows="4" required></textarea>
+                    
+                    <button type="submit">Submit</button>
+                </form>
+            </div>
+        </div>
+    </section>
+    
+
+    <footer class="footer">
+        <p>&copy; 2023 gummalaprashanth509@gmail.com</p>
+    </footer>
+
+    
+</body>
+</html>
